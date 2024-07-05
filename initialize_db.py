@@ -11,10 +11,10 @@ session = Session()
 user = User("admin@gmail.com","password")
 session.add(user)
  
-user = User("susanta@gmail.com", "1234")
+user = User("nsrikanth2004@gmail.com", "1234")
 session.add(user)
  
-user = User("aditya@gmail.com","python")
+user = User("nsrikanth2004@gmail.com","python")
 session.add(user)
  
 # commit the record the database
